@@ -1,37 +1,56 @@
 Microsoft Windows [versão 10.0.26100.6584]
 (c) Microsoft Corporation. Todos os direitos reservados.
 
-C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>cmd /k ipconfig
+C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>cmd /k netsh wlan show profile name="Jujubinha 5g" key=clear
 
-Configuração de IP do Windows
+Perfil Jujubinha 5g na interface Wi-Fi: 
+======================================================================= 
 
+Aplicado: Todos os Perfis de Usu├írios
 
-Adaptador de Rede sem Fio Conexão Local* 9:
+Informa├º├Áes do perfil 
+------------------- 
+    Vers├úo                : 1
+    Tipo                   : LAN sem Fio
+    Nome                   : Jujubinha 5g
+    Op├º├Áes de controle        : 
+        Modo de conex├úo    : Conectar automaticamente
+        Transmiss├úo da rede  : conectar somente se esta rede estiver transmitindo
+        Altern├óncia autom├ítica : N├úo alternar para outra rede
+        Uso de MAC Aleat├│rio: Desabilitado
 
-   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
-   Sufixo DNS específico de conexão. . . . . . : 
+Configura├º├Áes de conectividade 
+--------------------- 
+    N├║mero de SSIDs        : 1
+    Nome SSID              : "Jujubinha 5g"
+    Tipo de rede           : Infraestrutura
+    Tipo de R├ídio               : [ Qualquer Tipo de R├ídio ]
+    Extens├úo do fornecedor       : N├úo presente
 
-Adaptador de Rede sem Fio Conexão Local* 10:
+Configura├º├Áes de seguran├ºa 
+----------------- 
+    Autentica├º├úo         : WPA3-Personal
+    Codifica├º├úo         : GCMP-256
+    Autentica├º├úo         : WPA3-Personal
+    Codifica├º├úo         : GCMP
+    Autentica├º├úo         : WPA3-Personal
+    Codifica├º├úo         : CCMP
+    Autentica├º├úo         : WPA2-Personal
+    Codifica├º├úo         : GCMP
+    Autentica├º├úo         : WPA2-Personal
+    Codifica├º├úo         : CCMP
+    Chave de seguran├ºa           : Presente
+    Conte├║do da Chave            : 98653223@Al
 
-   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
-   Sufixo DNS específico de conexão. . . . . . : 
+Configura├º├Áes de custo 
+------------- 
+    Custo                   : irrestrito
+    Congestionado              : n├úo
+    Limite de Dados Aproximado : n├úo
+    Limite de Dados Excedido        : n├úo
+    Roaming                : n├úo
+    Origem de Custo            : padr├úo
 
-Adaptador de Rede sem Fio Wi-Fi:
-
-   Sufixo DNS específico de conexão. . . . . . : home
-   Endereço IPv6 . . . . . . . . . . : 2804:14c:87b1:8204::1c48
-   Endereço IPv6 . . . . . . . . . . : 2804:14c:87b1:8204:476d:f7c:486c:28eb
-   Endereço IPv6 Temporário. . . . . . . . : 2804:14c:87b1:8204:c974:91c9:6e7f:a1c0
-   Endereço IPv6 de link local . . . . . . . . : fe80::27a2:d0b4:aaaf:1e62%7
-   Endereço IPv4. . . . . . . .  . . . . . . . : 192.168.0.8
-   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
-   Gateway Padrão. . . . . . . . . . . . . . . : fe80::ce58:30ff:fefd:f4b8%7
-                                                 192.168.0.1
-
-Adaptador Ethernet Conexão de Rede Bluetooth:
-
-   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
-   Sufixo DNS específico de conexão. . . . . . : 
 
 C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>
 C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>
