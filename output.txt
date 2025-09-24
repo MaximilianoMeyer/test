@@ -1,8 +1,9 @@
-Microsoft Windows [versão 10.0.26100.6584]
-(c) Microsoft Corporation. Todos os direitos reservados.
+O Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
 
-C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>cmd /k Get-LocalUser
+Instale o PowerShell mais recente para obter novos recursos e aprimoramentos! https://aka.ms/PSWindows
 
-C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>
-C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>
-C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>
+PS C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0> cmd /k Get-LocalUser
+
+C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0>PS C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0> 
+PS C:\Users\aline\OneDrive\Área de Trabalho\Projects\democ2\bin\Debug\net9.0> 
